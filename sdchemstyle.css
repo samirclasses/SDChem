@@ -29,7 +29,7 @@
     display:inline-flex;
 }
 .aside_body{
-    width: 100%;
+    width:75px;
     height:40px;
     border: 1px solid indigo;
     background-color: white;
